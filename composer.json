@@ -1,6 +1,7 @@
 {
     "name": "f-dg/adjust-api-sdk",
     "description": "PHP SDK for Adjust API",
+    "license": "MIT",
     "authors": [
         {
             "name": "Firsov Dmitry"
